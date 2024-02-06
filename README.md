@@ -3,7 +3,7 @@
 
 ## ⚡ GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siravitt&layout=compact&count_private=true&theme=gruvbox" />
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siravitt&layout=compact&count_private=true&theme=gruvbox" />
 
 ![Siravitt's github stats](https://github-readme-stats.vercel.app/api?username=Siravitt&show_icons=true&theme=dracula&hide=stars,issues)
 
