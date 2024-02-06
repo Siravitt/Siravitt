@@ -11,6 +11,6 @@
 
 ![Siravitt's github stats](https://github-readme-stats.vercel.app/api?username=Siravitt&show_icons=true&theme=dracula&hide=stars,issues)
 
-![VisitorCount](https://profile-counter.glitch.me/{Siravitt}/count.svg)
+## Visitors Count 👀
 
-![Profile views](https://komarev.com/ghpvc/?username=siravitt)
+![VisitorCount](https://profile-counter.glitch.me/{Siravitt}/count.svg)
