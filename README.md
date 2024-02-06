@@ -3,4 +3,6 @@
 
 ## ⚡ GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siravitt&layout=compact&count_private=true&theme=gruvbox" />
+
 ![](https://komarev.com/ghpvc/?username=siravitt)
