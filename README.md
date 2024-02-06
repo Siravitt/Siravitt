@@ -8,3 +8,5 @@
 ![Siravitt's github stats](https://github-readme-stats.vercel.app/api?username=Siravitt&show_icons=true&theme=dracula&hide=stars,issues)
 
 ![](https://komarev.com/ghpvc/?username=siravitt)
+
+## :dizzy: Tech Stack
