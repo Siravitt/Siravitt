@@ -11,6 +11,6 @@
 
 ![Siravitt's github stats](https://github-readme-stats.vercel.app/api?username=Siravitt&show_icons=true&theme=dracula&hide=stars,issues)
 
-## Visitors Count 👀
+## :eyes: Visitors Count
 
 ![VisitorCount](https://profile-counter.glitch.me/{Siravitt}/count.svg)
