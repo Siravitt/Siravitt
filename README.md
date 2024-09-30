@@ -24,6 +24,7 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
 ![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=gin)&nbsp;
+![Nest](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nest)&nbsp;
 
 ![Robotframework](https://img.shields.io/badge/-Robot_framework-05122A?style=flat&logo=robotframework)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
