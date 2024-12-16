@@ -55,4 +55,5 @@
 
 ## :fire: Leet Code
 
-![Siravtt's leetcode stats](https://leetcard.jacoblin.cool/Siravitt?site=cn)
+![Siravtt's leetcode stats](https://leetcard.jacoblin.cool/Siravitt)
+
