@@ -51,4 +51,8 @@
 
 ## :eyes: Visitors Count
 
-![VisitorCount](https://profile-counter.glitch.me/{Siravitt}/count.svg)
+![Siravitt's VisitorCount](https://profile-counter.glitch.me/{Siravitt}/count.svg)
+
+## :fire: Leet Code
+
+![Siravtt's leetcode stats](https://leetcard.jacoblin.cool/leetcode?site=cn)
