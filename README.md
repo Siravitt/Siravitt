@@ -49,11 +49,3 @@
 
 ![Siravitt's github stats](https://github-readme-stats.vercel.app/api?username=Siravitt&show_icons=true&theme=dracula&hide=stars,issues)
 
-## :eyes: Visitors Count
-
-![Siravitt's VisitorCount](https://profile-counter.glitch.me/{Siravitt}/count.svg)
-
-## :fire: Leet Code
-
-![Siravtt's leetcode stats](https://leetcard.jacoblin.cool/Siravitt)
-
